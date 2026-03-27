@@ -44,7 +44,7 @@ ssh -T git@github.com
 ### (4) Set the Remote Repository
 To ensure you are connected to the correct repository, run:
 ```sh
-git remote set-url origin git@github.com:BOYSABIO/Modern-Data-Architectures.git
+git remote set-url origin git@github.com:BOYSABIO/Audio-Fingerprinting-Matching-Pipeline.git
 ```
 
 ---
