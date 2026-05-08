@@ -1,3 +1,8 @@
+## Legacy VM Troubleshooting (Archive Reference)
+
+This page documents issues from the earlier VM-based implementation path.  
+It is preserved for historical context and is **not** required for the current Databricks-first workflow.
+
 ## VIRTUAL MACHINE ENVIRONMENT BEFORE SWITCHING TO DATABRICKS
 
 ### PREREQUISITE
